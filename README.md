@@ -1,0 +1,2 @@
+# .github
+AfterLutz community defaults
