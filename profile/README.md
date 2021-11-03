@@ -1,5 +1,5 @@
 ## AfterLutz 👋
-The AfterLutz organization was created in honor of [Lutando Ngqakaza](Lutando Ngqakaza), nicknamed "Lutz" by his friends, who [passed away suddenly in July, 2021](https://github.com/Lutando/Akkatecture/issues/446).
+The AfterLutz organization was created in honor of [Lutando Ngqakaza](https://github.com/Lutando), nicknamed "Lutz" by his friends, who [passed away suddenly in July, 2021](https://github.com/Lutando/Akkatecture/issues/446).
 
 Lutando was a major contributor to the .NET distributed systems community and the AfterLutz organization builds upon Lutando's great OSS work on [Akkatecture](https://github.com/AfterLutz/Akkatecture).
 
