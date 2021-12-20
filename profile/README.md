@@ -14,3 +14,5 @@ Akkatecture is an open-source framework for building reactive microservice syste
 Akkatecture treats Event-Sourcing and the axioms of the Actor Model as primary fundamental concepts. As a result of being built on top of Akka.NET, Akkatecture provides great levels of extensibility and configurability so that you can create resilient and distributed applications.
 
 👉 ***Our goal** is to create and maintain a fantastic (performant and reliable) framework for creating Event-Sourced/CQRS-based applications using .NET and Akka.NET!*
+
+We welcome contributions from the community! If you're interest, please review the [Contributor Guidance(http://github.com/AfterLutz/CONTRIBUTING.md)] 
